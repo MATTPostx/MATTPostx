@@ -3,6 +3,13 @@
 MATTPostx/MATTPostx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+
  👋 Hi, I’m @MATT a junior majoring in Computer Science at Mississippi State University 
 
 I'm a college student who lives in the United States. I'm learning how to code.. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
@@ -15,3 +22,17 @@ For my programming projects, I usually only upload to Github once I make signifi
 💬 Ask me about NBA history.
 ⚡ Fun fact: My first line of code was not "Hello World!"
  📫 How to reach me at matthewratliff180@gmail.com
+
+![Alt text](https://pin.it/1bxe0kN)
+
+
+![coder](https://github.com/MATTPostx/MATTPostx/assets/65778750/6b8e335d-d2fa-4b88-9e91-0d858543f01d)
+
+
+
+
+
+
+
+
+
